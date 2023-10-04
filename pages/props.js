@@ -5,7 +5,7 @@ export default function Props() {
   return (
     <div>
       <Loading /> {/* OPEN THE LOADING COMPONENT TO SEE HOW THE PROPS ARE HANDLED */}
-      <Loading color="green" />
+      <Loading color="black" />
       <Loading color="orange" />
       <Loading color="purple" />
 
